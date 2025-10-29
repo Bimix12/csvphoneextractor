@@ -1,0 +1,5 @@
+{
+  "name": "CSV Website & Phone Extractor",
+  "description": "An intelligent tool to upload a CSV file, automatically filter rows that are missing a website, and extract phone numbers from the filtered data. Perfect for processing Google Maps exports.",
+  "requestFramePermissions": []
+}
